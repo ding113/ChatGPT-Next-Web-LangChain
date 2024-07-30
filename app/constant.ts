@@ -35,14 +35,14 @@ export enum Path {
 
 export enum ApiPath {
   Cors = "",
-  Azure = "/api/azure",
+  Azure = "/api/openai",
   OpenAI = "/api/openai",
-  GoogleAI = "/api/google",
-  Anthropic = "/api/anthropic",
-  Google = "/api/google",
-  Baidu = "/api/baidu",
-  ByteDance = "/api/bytedance",
-  Alibaba = "/api/alibaba",
+  GoogleAI = "/api/openai",
+  Anthropic = "/api/openai",
+  Google = "/api/openai",
+  Baidu = "/api/openai",
+  ByteDance = "/api/openai",
+  Alibaba = "/api/openai",
 }
 
 export enum SlotID {
